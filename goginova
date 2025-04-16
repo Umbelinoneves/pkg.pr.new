@@ -1,0 +1,10 @@
+# Passo 1: Crie a pasta do projeto
+mkdir govinova-app && cd govinova-app
+
+# Passo 2: Extraia o conteúdo do ZIP mais recente que te forneci aqui
+
+# Passo 3: Instale o Vite e dependências
+npm install
+
+# Passo 4: Rode a aplicação
+npm run dev
